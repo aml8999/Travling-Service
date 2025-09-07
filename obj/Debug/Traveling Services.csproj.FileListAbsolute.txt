@@ -1,0 +1,9 @@
+C:\Users\Workstation Shop\source\repos\Traveling Services\Traveling Services\bin\Debug\Traveling Services.exe.config
+C:\Users\Workstation Shop\source\repos\Traveling Services\Traveling Services\bin\Debug\Traveling Services.exe
+C:\Users\Workstation Shop\source\repos\Traveling Services\Traveling Services\bin\Debug\Traveling Services.pdb
+C:\Users\Workstation Shop\source\repos\Traveling Services\Traveling Services\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Workstation Shop\source\repos\Traveling Services\Traveling Services\obj\Debug\Traveling Services.csproj.AssemblyReference.cache
+C:\Users\Workstation Shop\source\repos\Traveling Services\Traveling Services\obj\Debug\Traveling Services.csproj.CoreCompileInputs.cache
+C:\Users\Workstation Shop\source\repos\Traveling Services\Traveling Services\obj\Debug\Travelin.BAD2CD59.Up2Date
+C:\Users\Workstation Shop\source\repos\Traveling Services\Traveling Services\obj\Debug\Traveling Services.exe
+C:\Users\Workstation Shop\source\repos\Traveling Services\Traveling Services\obj\Debug\Traveling Services.pdb
