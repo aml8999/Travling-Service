@@ -1,4 +1,4 @@
-##### Traveling Services
+# Traveling Services
 
 ### Author: Aml Osman
 
@@ -45,7 +45,6 @@ Console-based interactive menu and robust input validation.
 └─ README.md
 
 
-# Note: Filenames in your project may differ; above is a conceptual mapping to help readers.
 
 ## 🛠️ Requirements
 
